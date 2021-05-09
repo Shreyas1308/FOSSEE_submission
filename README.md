@@ -4,4 +4,4 @@ The project repository contains the following project codes : <br />
 1. SR latch <br />
 2. Calculator(testbench included) <br />
 ### Abstract
-Also the repository contains the the abstract(pdf document) of the codes
+Also the repository contains the the abstract(pdf document) of the codes.
